@@ -1,2 +1,2 @@
-# -Study-ReactNative
+#React-Native-Study
 ReactNative Study
